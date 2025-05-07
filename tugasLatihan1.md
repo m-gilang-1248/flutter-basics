@@ -2,6 +2,8 @@
  1. Bagaimana cara membuat project Flutter menggunakan terminal/cmd?
  > Buka terminal, lalu ketikkan ```bash flutter create project_flutter_pertama```
  2. Apa aturan dalam memberikan nama project pada Flutter?
+ > Semua huruf kecil
+ > Bila terdapat lebih dari 1 kata, dihubungkan dengan karakter  > underscore
  3. Apa saja folder yang secara khusus disiapkan oleh Flutter untuk menjalankan aplikasi pada platform tertentu?
  4. Apa fungsi dari folder .dart_tools dan .idea?
  5. Bagaimana cara membuka project Flutter menggunakan Visual Studio Code?
