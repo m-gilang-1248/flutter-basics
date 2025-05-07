@@ -1,4 +1,4 @@
-#Tugas Latihan 1
+# Tugas Latihan 1
  1. Bagaimana cara membuat project Flutter menggunakan terminal/cmd?
  > Buka terminal, lalu ketikkan ```bash flutter create project_flutter_pertama```
  2. Apa aturan dalam memberikan nama project pada Flutter?
